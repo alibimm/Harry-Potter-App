@@ -1,4 +1,5 @@
 [
+ 
   {
 
   "name": "Harry Potter",
@@ -13,7 +14,7 @@
   "wand": {
             "wood": "holly",
             "core": "phoenix feather",
-            "length": 11
+            "length": "11"
           },
   "patronus": "stag",
   "hogwartsStudent": true,
@@ -61,7 +62,7 @@
   "wand": {
             "wood": "willow",
             "core": "unicorn tail-hair",
-            "length": 14
+            "length": "14"
           },
   "patronus": "Jack Russell terrier",
   "hogwartsStudent": true,
@@ -85,7 +86,7 @@
   "wand": {
             "wood": "hawthorn",
             "core": "unicorn tail-hair",
-            "length": 10
+            "length": "10"
           },
   "patronus": "",
   "hogwartsStudent": true,
@@ -133,7 +134,7 @@
   "wand": {
             "wood": "ash",
             "core": "unicorn hair",
-            "length": 12.25
+            "length": "12.25"
           },
   "patronus": "",
   "hogwartsStudent": true,
@@ -205,7 +206,7 @@
   "wand": {
             "wood": "oak",
             "core": "",
-            "length": 16
+            "length": "16"
           },
   "patronus": "",
   "hogwartsStudent": false,
@@ -229,7 +230,7 @@
   "wand": {
             "wood": "cherry",
             "core": "unicorn tail-hair",
-            "length": 13
+            "length": "13"
           },
   "patronus": "",
   "hogwartsStudent": true,
@@ -325,7 +326,7 @@
   "wand": {
             "wood": "cypress",
             "core": "unicorn tail-hair",
-            "length": 10.25
+            "length": "10.25"
           },
   "patronus": "wolf",
   "hogwartsStudent": false,
@@ -373,7 +374,7 @@
   "wand": {
             "wood": "walnut",
             "core": "dragon heartstring",
-            "length": 12.75
+            "length": "12.75"
           },
   "patronus": "",
   "hogwartsStudent": false,
@@ -397,7 +398,7 @@
   "wand": {
             "wood": "yew",
             "core": "phoenix feather",
-            "length": 13.5
+            "length": "13.5"
           },
   "patronus": "",
   "hogwartsStudent": false,
@@ -421,7 +422,7 @@
   "wand": {
             "wood": "cedar",
             "core": "dragon heartstring",
-            "length": 10.25
+            "length": "10.25"
           },
   "patronus": "",
   "hogwartsStudent": false,
@@ -469,7 +470,7 @@
   "wand": {
             "wood": "birch",
             "core": "dragon heartstring",
-            "length": 8
+            "length": "8"
           },
   "patronus": "persian cat",
   "hogwartsStudent": false,
@@ -493,7 +494,7 @@
   "wand": {
             "wood": "elm",
             "core": "dragon heartstring",
-            "length": 18
+            "length": "18"
           },
   "patronus": "",
   "hogwartsStudent": false,

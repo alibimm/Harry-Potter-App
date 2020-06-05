@@ -1,5 +1,5 @@
 //
-//  SpellsVC2.swift
+//  SpellsVCOriginal.swift
 //  Harry-Potter-App
 //
 //  Created by Alibi on 12.04.2018.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SpellsVC2: UIViewController, UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate {
+class SpellsVCOriginal: UIViewController, UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate {
     
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var searchBar: UISearchBar!

@@ -7,21 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4106D35C20484E1B00D8DFA2 /* HeroVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4106D35B20484E1B00D8DFA2 /* HeroVC.swift */; };
+		4113F3D8207F2C0000959436 /* Spells.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4113F3D7207F2C0000959436 /* Spells.swift */; };
+		4113F3DA207F375000959436 /* SpellsVCOriginal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4113F3D9207F375000959436 /* SpellsVCOriginal.swift */; };
 		41FBCEFE2046DF4600E068F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FBCEFD2046DF4600E068F3 /* AppDelegate.swift */; };
-		41FBCF002046DF4600E068F3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FBCEFF2046DF4600E068F3 /* ViewController.swift */; };
+		41FBCF002046DF4600E068F3 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FBCEFF2046DF4600E068F3 /* MainVC.swift */; };
 		41FBCF032046DF4600E068F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41FBCF012046DF4600E068F3 /* Main.storyboard */; };
 		41FBCF052046DF4600E068F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41FBCF042046DF4600E068F3 /* Assets.xcassets */; };
 		41FBCF082046DF4600E068F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41FBCF062046DF4600E068F3 /* LaunchScreen.storyboard */; };
+		41FBCF102046DFF200E068F3 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 41FBCF0F2046DFF200E068F3 /* music.mp3 */; };
+		41FBCF132046E1E200E068F3 /* potterFont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 41FBCF122046E1E200E068F3 /* potterFont.ttf */; };
+		41FBCF162046E33900E068F3 /* CharactersVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FBCF152046E33900E068F3 /* CharactersVC.swift */; };
+		41FBCF1B2047055800E068F3 /* characters.json in Resources */ = {isa = PBXBuildFile; fileRef = 41FBCF192047055800E068F3 /* characters.json */; };
+		41FBCF1C2047055800E068F3 /* spells.json in Resources */ = {isa = PBXBuildFile; fileRef = 41FBCF1A2047055800E068F3 /* spells.json */; };
+		41FBCF20204706EE00E068F3 /* Potters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FBCF1F204706EE00E068F3 /* Potters.swift */; };
+		41FBCF2520470FF800E068F3 /* PotterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FBCF2420470FF800E068F3 /* PotterCell.swift */; };
+		41FF058E207F445C00B03B7D /* SpellCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FF058D207F445C00B03B7D /* SpellCell.swift */; };
+		41FF0592207F454700B03B7D /* MaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FF0591207F454700B03B7D /* MaterialView.swift */; };
+		41FF1C8C2088728400CD847D /* SpellsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41FF1C8B2088728400CD847D /* SpellsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4106D35B20484E1B00D8DFA2 /* HeroVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroVC.swift; sourceTree = "<group>"; };
+		4113F3D7207F2C0000959436 /* Spells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spells.swift; sourceTree = "<group>"; };
+		4113F3D9207F375000959436 /* SpellsVCOriginal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpellsVCOriginal.swift; sourceTree = "<group>"; };
 		41FBCEFA2046DF4600E068F3 /* Harry-Potter-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Harry-Potter-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41FBCEFD2046DF4600E068F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		41FBCEFF2046DF4600E068F3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		41FBCEFF2046DF4600E068F3 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		41FBCF022046DF4600E068F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		41FBCF042046DF4600E068F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41FBCF072046DF4600E068F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41FBCF092046DF4600E068F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41FBCF0F2046DFF200E068F3 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		41FBCF122046E1E200E068F3 /* potterFont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = potterFont.ttf; sourceTree = "<group>"; };
+		41FBCF152046E33900E068F3 /* CharactersVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersVC.swift; sourceTree = "<group>"; };
+		41FBCF192047055800E068F3 /* characters.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = characters.json; sourceTree = "<group>"; };
+		41FBCF1A2047055800E068F3 /* spells.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = spells.json; sourceTree = "<group>"; };
+		41FBCF1F204706EE00E068F3 /* Potters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Potters.swift; sourceTree = "<group>"; };
+		41FBCF2420470FF800E068F3 /* PotterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PotterCell.swift; sourceTree = "<group>"; };
+		41FF058D207F445C00B03B7D /* SpellCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpellCell.swift; sourceTree = "<group>"; };
+		41FF0591207F454700B03B7D /* MaterialView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialView.swift; sourceTree = "<group>"; };
+		41FF1C8B2088728400CD847D /* SpellsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpellsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,67 @@
 		41FBCEFC2046DF4600E068F3 /* Harry-Potter-App */ = {
 			isa = PBXGroup;
 			children = (
+				41FBCF1E204706BD00E068F3 /* Model */,
+				41FBCF2320470F4500E068F3 /* VIew */,
+				41FBCF142046E2FD00E068F3 /* Controller */,
+				41FBCF112046E1B900E068F3 /* Resources */,
+				41FBCF1D2047064F00E068F3 /* Utilities */,
+			);
+			path = "Harry-Potter-App";
+			sourceTree = "<group>";
+		};
+		41FBCF112046E1B900E068F3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				41FBCF0F2046DFF200E068F3 /* music.mp3 */,
+				41FBCF122046E1E200E068F3 /* potterFont.ttf */,
+				41FBCF192047055800E068F3 /* characters.json */,
+				41FBCF1A2047055800E068F3 /* spells.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		41FBCF142046E2FD00E068F3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				41FBCEFF2046DF4600E068F3 /* MainVC.swift */,
+				4106D35B20484E1B00D8DFA2 /* HeroVC.swift */,
+				41FBCF152046E33900E068F3 /* CharactersVC.swift */,
+				41FF1C8B2088728400CD847D /* SpellsVC.swift */,
+				4113F3D9207F375000959436 /* SpellsVCOriginal.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		41FBCF1D2047064F00E068F3 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
 				41FBCEFD2046DF4600E068F3 /* AppDelegate.swift */,
-				41FBCEFF2046DF4600E068F3 /* ViewController.swift */,
 				41FBCF012046DF4600E068F3 /* Main.storyboard */,
 				41FBCF042046DF4600E068F3 /* Assets.xcassets */,
 				41FBCF062046DF4600E068F3 /* LaunchScreen.storyboard */,
 				41FBCF092046DF4600E068F3 /* Info.plist */,
 			);
-			path = "Harry-Potter-App";
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		41FBCF1E204706BD00E068F3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				41FBCF1F204706EE00E068F3 /* Potters.swift */,
+				4113F3D7207F2C0000959436 /* Spells.swift */,
+				41FF0591207F454700B03B7D /* MaterialView.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		41FBCF2320470F4500E068F3 /* VIew */ = {
+			isa = PBXGroup;
+			children = (
+				41FBCF2420470FF800E068F3 /* PotterCell.swift */,
+				41FF058D207F445C00B03B7D /* SpellCell.swift */,
+			);
+			path = VIew;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +202,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41FBCF102046DFF200E068F3 /* music.mp3 in Resources */,
 				41FBCF082046DF4600E068F3 /* LaunchScreen.storyboard in Resources */,
+				41FBCF132046E1E200E068F3 /* potterFont.ttf in Resources */,
+				41FBCF1B2047055800E068F3 /* characters.json in Resources */,
 				41FBCF052046DF4600E068F3 /* Assets.xcassets in Resources */,
+				41FBCF1C2047055800E068F3 /* spells.json in Resources */,
 				41FBCF032046DF4600E068F3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +219,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41FBCF002046DF4600E068F3 /* ViewController.swift in Sources */,
+				41FBCF2520470FF800E068F3 /* PotterCell.swift in Sources */,
+				41FBCF162046E33900E068F3 /* CharactersVC.swift in Sources */,
+				4113F3D8207F2C0000959436 /* Spells.swift in Sources */,
+				41FF1C8C2088728400CD847D /* SpellsVC.swift in Sources */,
+				41FBCF20204706EE00E068F3 /* Potters.swift in Sources */,
+				41FF0592207F454700B03B7D /* MaterialView.swift in Sources */,
+				41FBCF002046DF4600E068F3 /* MainVC.swift in Sources */,
+				41FF058E207F445C00B03B7D /* SpellCell.swift in Sources */,
+				4113F3DA207F375000959436 /* SpellsVCOriginal.swift in Sources */,
 				41FBCEFE2046DF4600E068F3 /* AppDelegate.swift in Sources */,
+				4106D35C20484E1B00D8DFA2 /* HeroVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,8 +367,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = M3VBZQ2T2N;
-				INFOPLIST_FILE = "Harry-Potter-App/Info.plist";
+				DEVELOPMENT_TEAM = 36QR85GP77;
+				INFOPLIST_FILE = "$(SRCROOT)/Harry-Potter-App/Utilities/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alibi.Harry-Potter-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -290,8 +382,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = M3VBZQ2T2N;
-				INFOPLIST_FILE = "Harry-Potter-App/Info.plist";
+				DEVELOPMENT_TEAM = 36QR85GP77;
+				INFOPLIST_FILE = "$(SRCROOT)/Harry-Potter-App/Utilities/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alibi.Harry-Potter-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";

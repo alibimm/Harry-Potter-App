@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  Spells.swift
 //  Harry-Potter-App
 //
 //  Created by Alibi on 12.04.2018.
@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class Spells {
+    
+    var name: String!
+    var type: String!
+    var effect: String!
+    
+}
